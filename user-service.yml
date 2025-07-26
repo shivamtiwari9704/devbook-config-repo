@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/user_db
+    url: jdbc:postgresql://localhost:5432/devbook_users
     username: postgres
-    password: root
+    password: JaySiyaRam123@#
   jpa:
     hibernate:
       ddl-auto: update
